@@ -1,0 +1,63 @@
+<<<<<<< HEAD
+*~
+*.orig
+*.pyc
+*.rej
+.installed.cfg
+__minitage__*
+bin/*
+develop-eggs
+downloads
+eggs
+log
+parts
+media/uploads
+tmp
+.DS_Store
+sqlite.db
+=======
+# This is a merge of my default ignore file and the ignore file found in the
+# HTML5 Boilerplate repository of paulirish at github at
+# https://github.com/paulirish/html5-boilerplate/
+# Thank you, Paul! I hope you don't mind.
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+nbproject
+thumbs.db
+
+# Jekyll
+_site
+
+# Dreamweaver added files
+_notes
+dwsync.xml
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# Folders to ignore
+.hg
+.svn
+publish
+.idea
+
+# HTML5 Boiler Plate build script local files
+build/buildinfo.properties
+build/config/buildinfo.properties
+>>>>>>> c30eee422e7fad267de3a61c23a9cd1ab40ebb82

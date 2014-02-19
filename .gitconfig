@@ -1,0 +1,7 @@
+[user]
+	name = Chris Clouten
+	email = triplec1988@gmail.com
+[credential]
+	helper = osxkeychain
+[core]
+	excludesfile = /Users/triplec1988/.gitignore_global
